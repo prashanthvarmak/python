@@ -1,0 +1,5 @@
+name of places
+
+1.bellary
+2.siruguppa
+3.sindhanur
